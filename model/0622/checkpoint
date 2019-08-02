@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/idriver/work/HRL/model/current_actor_gap.model"
+all_model_checkpoint_paths: "/home/idriver/work/HRL/model/current_actor_gap.model"
