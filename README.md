@@ -1,4 +1,4 @@
-# AutoDriving_Decision_DeepReinforcementLearning
+# AutoDriving Decision with Deep Reinforcement Learning
 
 By using Deep Reinforcement Learning(DRL), we have made a model that can train auto-driving decisions. 
 The input to the model is a three-lane model in a high-speed scene. After sensing the surrounding environment, the output of our model is: 
